@@ -1,0 +1,2 @@
+def validacion():
+    return None
